@@ -1,0 +1,6 @@
+x = float(input("x = "))
+y = float(input("y = "))
+z = float(input("z = "))
+mx = max(x,y,z)
+mn = min(x,y,z)
+print("Max:",mx,"Min:",mn)
